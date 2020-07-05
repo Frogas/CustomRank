@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/iCat21/CustomRank
+--- # Poggit-CI Manifest. Open the CI at https://github.com/iCat21/CustomRank/releases/tag/CustomRank
 build-by-default: true
 branches:
 - master
